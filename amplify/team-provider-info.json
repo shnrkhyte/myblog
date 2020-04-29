@@ -10,6 +10,11 @@
             "StackName": "amplify-mywork-myback-85812",
             "StackId": "arn:aws:cloudformation:ap-northeast-1:446000528428:stack/amplify-mywork-myback-85812/9a3eb630-89f7-11ea-bfbb-06c25460bea0",
             "AmplifyAppId": "d9gxc9keyi19w"
+        },
+        "categories": {
+            "auth": {
+                "myworkf5d72f5e": {}
+            }
         }
     }
 }
